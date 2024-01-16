@@ -1,1 +1,1 @@
-worker : python3 -m AniPlay
+worker: python -m AniPlay
